@@ -1,0 +1,4 @@
+created a  new repository on githhub
+created a new folder in local machine 
+add then commit and now will be puhing the changes to GitHub
+
